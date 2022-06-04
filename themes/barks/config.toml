@@ -1,0 +1,60 @@
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.87.0"
+[menu]
+[[menu.main]]
+  name = 'About'
+  URL = '/about/'
+  weight = -120
+[[menu.main]]
+  name = 'Publications'
+  url = '/publications/'
+  weight = -110
+[[menu.main]]
+  name = 'Awards & Honours'
+  url = '/awards/'
+  weight = -100
+[params]
+  [params.navigation]
+    show_navigation = true
+  [params.footer]
+      show_footer = true
+  [params.typography]
+    title_font = "Bree Serif"
+    body_font = "Source Sans Pro"
+  [params.colors]
+    theme_color = "#333333"
+    background_color = "#fcfbf9"
+    text_color = "#333333"
+    link_color = "#60c17d"
+  [params.head]
+      author = "Oussama Boussif"
+      description = "Hi, I'm Oussama Boussif, and this is my website!"
+      keywords = ["machine learning", "physics", "pde", "reinforcement learning", "multi-agent reinforcement learning"]
+  [params.social]
+      [params.social.email]
+          name = "E-Mail"
+          class = "fas fa-envelope"
+          url = "mailto:oussama.boussif@mila.quebec"
+          weight = 1
+      [params.social.github]
+          name = "GitHub"
+          class = "fab fa-github"
+          url = "https://github.com/jaggbow"
+          weight = 2
+      [params.social.google_scholar]
+          name = "Google Scholar"
+          class = "fas fa-graduation-cap"
+          url = "https://scholar.google.com/citations?user=RwtLLioAAAAJ"
+          weight = 3
+      [params.social.stack_exchange]
+          name = "Mathematics Stack Exchange"
+          class = "fab fa-stack-exchange"
+          url = "https://math.stackexchange.com/users/258472/oussama-boussif"
+          weight = 4
+      [params.social.linkedin]
+          name = "Linkedin"
+          class = "fab fa-linkedin"
+          url = "https://www.linkedin.com/in/oussama-boussif/"
+          weight = 5
