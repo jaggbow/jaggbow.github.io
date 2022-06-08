@@ -1,6 +1,6 @@
 * Awarded a [3 year merit scolarship](https://www.cpge.ac.ma/documents/DossierBM_E/ResultatBourseFOCP_S_17.pdf) from "OCP Foundation" for pursuing studies at CentraleSupélec (**2017**)
 * Ranked 11 out of 3000 moroccan students at the National Entrance Exams to the Moroccan Grandes Ecoles (CNC) (**2017**)
-* Awarded a 2 year scolarship from the "Mohamed VI Foundation" for getting outsanding results at the baccalaureate exam (**2015**)
+* Awarded a [2 year scolarship](https://lesecolesihsane.com/bourses-dexcellence-istihqaq-2015/) from the "Mohamed VI Foundation" for getting outsanding results at the baccalaureate exam (**2015**)
 * Awarded a [8 year scolarship](http://www.academiesciences.ma/es/activites/concours.php) from the "Académie Hassan II" for securing the first place at the National Physics Exam (**2015**)
 * [Placed first at the National Physics Exam](http://www.academiesciences.ma/es/activites/concours.php) among the top 300 moroccan students (**2015**)
 * Placed second at the National Physics Olympiad among the top 20 moroccan finalists (**2015**)
