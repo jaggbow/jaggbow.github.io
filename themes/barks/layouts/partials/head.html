@@ -20,6 +20,7 @@
         <meta name="keywords" content="{{ delimit .  ", " }}" />
     {{ end }}
 
+    {{ partial "seo_schema" . }}
     <!-- Define title -->
     {{ if .IsHome}}
         <title>{{- .Site.Title -}}&nbsp;•&nbsp;Home</title>

@@ -31,7 +31,7 @@
   [params.head]
       author = "Oussama Boussif"
       description = "Hi, I'm Oussama Boussif, and this is my website!"
-      keywords = ["machine learning", "physics", "pde", "reinforcement learning", "multi-agent reinforcement learning"]
+      keywords = ["machine learning", "physics", "pde", "partial differential equations", "reinforcement learning", "multi-agent reinforcement learning"]
   [params.social]
       [params.social.email]
           name = "E-Mail"
