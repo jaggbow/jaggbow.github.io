@@ -13,7 +13,7 @@ Intensive Undergraduate Courses in Mathematics, Physics and Engineering Science
 **Mila - Québec AI Institute** Montréal (May 2021 - December 2022)  
 *Visiting Student supervised by Professors Yoshua Bengio & Loubna Benabbou*
  - Developped "MAgNet", a Mesh-Agnostic architecture for solving Partial Differential Equations and generalizing across unseen meshes and resolutions (Accepted at Neurips 2022)
- - Worked on understanding and improving coordination in heterogenous Multi-Agent Reinforcement Learning environments (Subimtted to ICLR 2023)
+ - Worked on understanding and improving coordination in heterogenous Multi-Agent Reinforcement Learning environments (Submitted to ICLR 2023)
 
 **ENVESTBOARD, Fund Solution Provider** Paris (July 2019 - December 2019)  
 *Data Science Intern*
