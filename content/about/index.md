@@ -10,11 +10,10 @@ Intensive Undergraduate Courses in Mathematics, Physics and Engineering Science
 
 # Research and Industry Experience
 
-**Mila - Québec AI Institute** Montréal (May 2021 - Ongoing)  
+**Mila - Québec AI Institute** Montréal (May 2021 - December 2022)  
 *Visiting Student supervised by Professors Yoshua Bengio & Loubna Benabbou*
- - Developped "MAgNet", a Mesh-Agnostic architecture for solving Partial Differential Equations and generalizing across unseen meshes and resolutions (paper under review)
- - Currently developping a benchmark dataset for learning fluid simulations in a data-driven way
- - Currently working on a day-ahead solar irradiance forecasting model to be deployed in solar plants in Ouarzazate, Morroco
+ - Developped "MAgNet", a Mesh-Agnostic architecture for solving Partial Differential Equations and generalizing across unseen meshes and resolutions (Accepted at Neurips 2022)
+ - Worked on understanding and improving coordination in heterogenous Multi-Agent Reinforcement Learning environments (Subimtted to ICLR 2023)
 
 **ENVESTBOARD, Fund Solution Provider** Paris (July 2019 - December 2019)  
 *Data Science Intern*
@@ -26,5 +25,5 @@ Intensive Undergraduate Courses in Mathematics, Physics and Engineering Science
 Quantum Physics Teaching Assistant at CentraleSupélec
 # Technical Skills
 **Languages**: Python, Java, Bash  
-**Frameworks**: Git, PyTorch, PyTorch-Lightning, DGL, Scrapy, RLlib, OpenCV
+**Frameworks**: Git, PyTorch, PyTorch-Lightning, DGL, Scrapy, OpenCV
 
