@@ -1,9 +1,12 @@
 # Education
+**University of Montreal**  (Started January 2023)  
+PhD student working under Pr. Yoshua Bengio on AI for scientific discovery
+
 **Paris-Saclay University - Ecole Normale Supérieure de Paris-Saclay**  (2020 – 2021)  
 Msc. in Mathematics, Vision & Learning (known as MVA)
 
 **Paris-Saclay University - CentraleSupélec Graduate School** (2017 - 2021)  
-Engineering Degree in Applied Mathematics And Data Science
+MEng. and BEng. in Applied Mathematics And Data Science
 
 **Lycée d'Excellence MPSI-MP** (2015 - 2017)  
 Intensive Undergraduate Courses in Mathematics, Physics and Engineering Science
@@ -13,7 +16,7 @@ Intensive Undergraduate Courses in Mathematics, Physics and Engineering Science
 **Mila - Québec AI Institute** Montréal (May 2021 - December 2022)  
 *Visiting Student supervised by Professors Yoshua Bengio & Loubna Benabbou*
  - Developped "MAgNet", a Mesh-Agnostic architecture for solving Partial Differential Equations and generalizing across unseen meshes and resolutions (Accepted at Neurips 2022)
- - Worked on understanding and improving coordination in heterogenous Multi-Agent Reinforcement Learning environments (Submitted to ICLR 2023)
+ - Worked on developping SAF, an algorithm for improving coordination in heterogenous Multi-Agent Reinforcement Learning (MARL) and introduced HECOGRID, an environment suite focused on understanding coordination and heterogeneity in MARL environments (Accepted at ICLR 2023)
 
 **ENVESTBOARD, Fund Solution Provider** Paris (July 2019 - December 2019)  
 *Data Science Intern*
