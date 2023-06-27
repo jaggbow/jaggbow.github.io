@@ -8,7 +8,7 @@ Msc. in Mathematics, Vision & Learning (known as MVA)
 **Paris-Saclay University - CentraleSupélec Graduate School** (2017 - 2021)  
 MEng. and BEng. in Applied Mathematics And Data Science
 
-**Lycée d'Excellence MPSI-MP** (2015 - 2017)  
+**Lycée d'Excellence MPSI-MP\*** (2015 - 2017)  
 Intensive Undergraduate Courses in Mathematics, Physics and Engineering Science
 
 # Research and Industry Experience
