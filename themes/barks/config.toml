@@ -43,6 +43,11 @@
           class = "fab fa-github"
           url = "https://github.com/jaggbow"
           weight = 2
+      [params.social.bluesky]
+          name = "BlueSky"
+          class = "fab fa-bluesky"
+          url = "https://bsky.app/profile/boussifo.bsky.social"
+          weight = 2
       [params.social.google_scholar]
           name = "Google Scholar"
           class = "fas fa-graduation-cap"
