@@ -45,7 +45,7 @@
           weight = 2
       [params.social.bluesky]
           name = "BlueSky"
-          class = "fab fa-bluesky"
+          class = "fa-brands fa-bluesky"
           url = "https://bsky.app/profile/boussifo.bsky.social"
           weight = 2
       [params.social.google_scholar]
